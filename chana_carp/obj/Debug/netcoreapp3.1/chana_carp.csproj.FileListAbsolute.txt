@@ -1,0 +1,13 @@
+D:\test\elad\chana_carp\chana_carp\obj\Debug\netcoreapp3.1\chana_carp.csprojAssemblyReference.cache
+D:\test\elad\chana_carp\chana_carp\obj\Debug\netcoreapp3.1\chana_carp.AssemblyInfoInputs.cache
+D:\test\elad\chana_carp\chana_carp\obj\Debug\netcoreapp3.1\chana_carp.AssemblyInfo.cs
+D:\test\elad\chana_carp\chana_carp\obj\Debug\netcoreapp3.1\chana_carp.csproj.CoreCompileInputs.cache
+D:\test\elad\chana_carp\chana_carp\bin\Debug\netcoreapp3.1\chana_carp.exe
+D:\test\elad\chana_carp\chana_carp\bin\Debug\netcoreapp3.1\chana_carp.deps.json
+D:\test\elad\chana_carp\chana_carp\bin\Debug\netcoreapp3.1\chana_carp.runtimeconfig.json
+D:\test\elad\chana_carp\chana_carp\bin\Debug\netcoreapp3.1\chana_carp.runtimeconfig.dev.json
+D:\test\elad\chana_carp\chana_carp\bin\Debug\netcoreapp3.1\chana_carp.dll
+D:\test\elad\chana_carp\chana_carp\bin\Debug\netcoreapp3.1\chana_carp.pdb
+D:\test\elad\chana_carp\chana_carp\obj\Debug\netcoreapp3.1\chana_carp.dll
+D:\test\elad\chana_carp\chana_carp\obj\Debug\netcoreapp3.1\chana_carp.pdb
+D:\test\elad\chana_carp\chana_carp\obj\Debug\netcoreapp3.1\chana_carp.genruntimeconfig.cache
